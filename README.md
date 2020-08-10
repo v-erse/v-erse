@@ -21,7 +21,7 @@ Here are some cool things I have experience in:
 - Other stuff
     - Unity
     - AI/ML
-    - Security/Networking stuff
+    - Some security stuff
 - Languages
     - TypeScript
     - JavaScript

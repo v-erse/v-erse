@@ -8,7 +8,8 @@ Here are some cool things I have experience in:
     - Next.js
     - Framer Motion / React-spring
 - Backend
-    - Firebase, Google Cloud Platform
+    - Firebase
+    - A little bit of GCP/AWS
     - Node.js
     - Docker
     - Express
@@ -16,7 +17,7 @@ Here are some cool things I have experience in:
 - Mobile
     - React Native
     - Flutter
-    - Android
+    - Android (not too much xp here though)
 - Other stuff
     - Unity
     - AI/ML

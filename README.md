@@ -1,1 +1,1 @@
-![hackerman](/hacking)
+![hackerman](/hacking.webp)
